@@ -1,6 +1,8 @@
 project
 --------
 
+# STUB
+
 [Description]
 
 Install:
